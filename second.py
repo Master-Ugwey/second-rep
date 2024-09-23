@@ -1,3 +1,7 @@
 ptint("все нормально")
 print "99"
-print "anything"
+<<<<<<< HEAD
+=======
+print("a")
+print("b")
+>>>>>>> Mishanya
